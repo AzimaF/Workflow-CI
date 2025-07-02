@@ -1,4 +1,4 @@
-name: CI - MLFlow
+name: main - MLFlow
 
 on:
   push:
